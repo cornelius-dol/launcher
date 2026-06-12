@@ -1,0 +1,8 @@
+BusinessLink ActiveLauncher (Version 3.0.0, Build 2010.0329.1303)
+Loading ActiveLauncher properties from "C:/Data/User/Lawrence/Development/Team/Programming/Java/Source/com/businesslink/core/app/launcher/ActiveLauncher.prp".
+ERROR: Could not load properties from 'C:/Data/User/Lawrence/Development/Team/Programming/Java/Source/com/businesslink/core/app/launcher/ActiveLauncher.prp': java.io.FileNotFoundException: C:\Data\User\Lawrence\Development\Team\ProgrammingJava\Source\Core\com\businesslink\core\app\launcher\ActiveLauncher.prp (The system cannot find the file specified)
+  - Preparing ActiveLauncher
+BusinessLink ActiveLauncher updating.
+java.lang.NullPointerException
+	at ActiveLauncher.update(ActiveLauncher.java:146)
+	at ActiveLauncher.main(ActiveLauncher.java:354)

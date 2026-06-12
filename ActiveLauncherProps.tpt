@@ -1,0 +1,5 @@
+file.list.url       =<url>, e.g. http://dev400.businesslink.com/emulation/images/handheld/ActiveLauncher.lst
+target.class        =<class name>, e.g. com.businesslink.core.app.jemng.Main
+target.parm.file    =<argument file>, e.g. emulationClient.runarg.txt
+window.show         =<boolean>, true or false
+window.title        =<launcher title>, e.g. Strategi Emulation II

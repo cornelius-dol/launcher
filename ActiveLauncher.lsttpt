@@ -1,0 +1,8 @@
+// Active Launcher Files
+ActiveLauncher.class
+ActiveLauncher.prp
+
+// Application Files
+emulationClient.jar
+emulationClient.runarg.txt
+emulationClient.keymap.txt
